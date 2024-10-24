@@ -11,15 +11,22 @@
 
 - 💬 Ask me about **node.js, I am happy to help you.**
 
-- 📫 How to reach me **momenAbodrabooo@gmail.com**
+- 📫 How to reach me **+20 1063 950 450**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1R1orq3x74X23BdCBxm8vVmn6qTwTnEmq/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h2>Connect with Me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/momen-abdrabo-nodejs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="momen-abdrabo-nodejs" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/momen.abdrabou/?locale=ar_ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/momen.abdrabou/?locale=ar_ar" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/momen-abdrabo-nodejs/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="mailto:momenabdrabooo@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
+
+
 
 <h3 align="center">🛠 Technologies and Tools 🛠</h3>
 
